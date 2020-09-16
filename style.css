@@ -84,6 +84,10 @@ header {
     color: var(--color-green);
 }
 
+#links-footer {
+    margin-bottom: 32px;
+}
+
 #links-footer a {
     border-bottom: 1px solid var(--color-green);
 }
@@ -100,6 +104,7 @@ header {
 
 .card {
     background-color: var(--color-rocket);
+    margin-bottom: 32px;
 }
 
 .card_image_container img {
